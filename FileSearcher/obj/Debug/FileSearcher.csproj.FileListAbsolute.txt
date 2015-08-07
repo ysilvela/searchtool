@@ -1,0 +1,13 @@
+D:\JSP TLSB\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe.config
+D:\JSP TLSB\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe
+D:\JSP TLSB\FileSearcher\FileSearcher\bin\Debug\FileSearcher.pdb
+D:\JSP TLSB\FileSearcher\FileSearcher\bin\Debug\Newtonsoft.Json.dll
+D:\JSP TLSB\FileSearcher\FileSearcher\bin\Debug\Newtonsoft.Json.pdb
+D:\JSP TLSB\FileSearcher\FileSearcher\bin\Debug\Newtonsoft.Json.xml
+D:\JSP TLSB\FileSearcher\FileSearcher\obj\Debug\ResolveAssemblyReference.cache
+D:\JSP TLSB\FileSearcher\FileSearcher\obj\Debug\FileSearcher.MainWindow.resources
+D:\JSP TLSB\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+D:\JSP TLSB\FileSearcher\FileSearcher\obj\Debug\GenerateResource.read.1.tlog
+D:\JSP TLSB\FileSearcher\FileSearcher\obj\Debug\GenerateResource.write.1.tlog
+D:\JSP TLSB\FileSearcher\FileSearcher\obj\Debug\FileSearcher.exe
+D:\JSP TLSB\FileSearcher\FileSearcher\obj\Debug\FileSearcher.pdb
