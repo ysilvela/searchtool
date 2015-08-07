@@ -1,0 +1,14 @@
+{
+    'Name':'Select CuentaCargo',
+    'Enabled' : true,
+    'Search': {
+        'text1': '<select name=\"cuentaCargo\">',
+        'text2': ''
+    },
+	'Events':{
+	    	'upDown': {
+	    		'nlines': 5,
+	    		'text': '<select name=\"cuentaCargo\">'
+	    	}
+	}
+}

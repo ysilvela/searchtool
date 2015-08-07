@@ -1,0 +1,13 @@
+{
+    'Name':'Extract Titles',
+    'Enabled' : true,
+    'Search': {
+        'text1': '<title>',
+        'text2': ''
+    },
+    'Extract':{
+    	'function': 'betweenTags',
+    	'textInit': '<title>',
+    	'textEnd': '</title>'
+    }
+}

@@ -1,0 +1,8 @@
+{
+    'Name':'busqueda saldoDispo',
+    'Enabled' : true,
+    'Search': {
+        'text1': 'saldoDispo',
+        'text2': ''
+    }
+}
